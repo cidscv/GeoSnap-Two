@@ -1,0 +1,39 @@
+{
+    "login": {
+        "failure": "No user found for that email.",
+        "wrong": "Wrong password provided for that user.",
+        "email": "Email",
+        "password": "Password",
+        "login": "Login",
+        "error": "Must include email and password",
+        "noaccount": "I don't have an account",
+        "loginpage": "Log in/Register"
+    },
+
+    "register": {
+        "email": "Email",
+        "username": "Username",
+        "password": "Password",
+        "register": "Register",
+        "location": "Location",
+        "error": "Must include username, password, and an image",
+        "weak": "The password provided is too weak.",
+        "account": "The account already exists for that email.",
+        "haveaccount": "I already have an account",
+        "success": "Registration successuful!"
+    },
+
+    "chart": {
+        "title": "Top 10 Most Popular Posts"
+    },
+
+    "profile": {
+        "edit": "Edit"
+    },
+
+    "title": {
+        "addsnap": "Add Snapshot",
+        "profile": "Profile",
+        "login": "Login"
+    }
+}

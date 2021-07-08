@@ -1,0 +1,39 @@
+{
+    "login": {
+        "failure": "Aucun utilisateur trouvé pour cet e-mail.",
+        "wrong": "Mot de passe incorrect fourni pour cet utilisateur.",
+        "email": "Email",
+        "password": "Mot de passe",
+        "login": "S'identifier",
+        "error": "Doit inclure l'email et le mot de passe",
+        "noaccount": "Je n'ai pas de compte",
+        "loginpage": "S'identifier/S'enregistrer"
+    },
+
+    "register": {
+        "email": "Email",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "register": "S'inscrire",
+        "location": "Emplacement",
+        "error": "Doit inclure un nom d'utilisateur, un mot de passe et une image",
+        "weak": "Le mot de passe fourni est trop faible.",
+        "account": "Le compte existe déjà pour cet e-mail.",
+        "haveaccount": "Je ai déjà un compte",
+        "success": "Inscription réussie!"
+    },
+
+    "chart": {
+        "title": "Top 10 des articles les plus populaires"
+    },
+
+    "profile": {
+        "edit": "Éditer"
+    },
+
+    "title": {
+        "addsnap": "Ajouter un instantané",
+        "profile": "Profil",
+        "login": "S'identifier"
+    }
+}
